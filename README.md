@@ -1,16 +1,42 @@
-### Hi there 👋
+Hi 👋, I'm Sundaralingam Ratheeshkanth
+The DevOps Guy who ♥ automating stuff
 
-<!--
-**RatheeshKanth/RatheeshKanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 I’m currently working in Asrita as DevOps Engineer
+
+🌱 I’m currently working on Setting up infra using Terraform over AWS
+
+💬 Ask me about DevOps Tools and Practices
+
+📫 You can reach me at riji17@gmail.com
+
+👨‍💻 Some of the projects I have worked recently
+📦 Terraform Templates for setting up Infrastructure over AWS 
+
+📦 Deployment of a static webpage using AWS s3 and CloudFront
+
+📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3
+
+📦 Containerizing a MicroService and running it over Kubernetes
+
+Programming Language Stack
+bash python groovy
+
+OS Stack
+linux ubuntu centOS
+
+Database Stack
+mysql 
+
+Dev Stack
+maven
+
+DevOps Stack
+aws ansible terraform jenkins docker kubernetes nginx promethues graphite grafana
+
+Project Management Stack
+git github bitbucket
+
+Editor / IDE
+vs-code
